@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "777592012216",
+    "firebase_url": "https://quickapp-7410e.firebaseio.com",
+    "project_id": "quickapp-7410e",
+    "storage_bucket": "quickapp-7410e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777592012216:android:82953ca4a7b3eafb5ba34d",
+        "android_client_info": {
+          "package_name": "com.example.quickapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "777592012216-me147uc89ejl8jq00a0oi065t5ko1cfs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.quickapp",
+            "certificate_hash": "b59063eaf7380d0d1f3fcfffe4158857f0b59648"
+          }
+        },
+        {
+          "client_id": "777592012216-rif9dip0k92tdojboc6mch36lgpg553r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFvrt6cPSjITmkvcOQWzmpkgWuMfu5_D0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "777592012216-rif9dip0k92tdojboc6mch36lgpg553r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
